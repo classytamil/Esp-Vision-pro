@@ -16,6 +16,7 @@ a = Analysis(
         'cv2',
         'ultralytics',
         'kivy',
+        'kivymd.icon_definitions.md_icons',
         'kivy.lang',
         'kivy.clock',
         'kivy.core.window',

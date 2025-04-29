@@ -2,3 +2,8 @@ streamlit
 opencv-python
 numpy
 ultralytics
+kivy
+kivymd
+tensorflow
+tensorflow-hub
+
